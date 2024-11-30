@@ -1,0 +1,19 @@
+★ Homework - 03 ★
+
+- Adobe Firefly এর Text to Image ব্যবহার করে নিজের মতো একটি ইমেজ Generate  করতে হবে
+- Adobe Firefly এর Generative Fill ব্যবহার করে যেকেনো একটি ফটোর ব্যাকগ্রাউন্ড চেঞ্জ করতে হবে।
+- Leonardo AI দিয়ে নিজের মতো করে একটি ইমেজ Generate  করতে হবে
+- Ideogram দিয়ে নিজের মতো করে একটি ইমেজ Generate  করতে হবে 
+- Invideo AI ব্যবহার করে Digital Marketing এর যেকোনো একটি টপিকের উপর ভিডিও বানাতে হবে
+
+----------------------------------
+
+★ Homework Post করার ফরম্যাট ★ 
+
+Mentor Name: Shaiek Ahmed Sir
+Class: 03
+HW: 03
+Batch: [আপনার ব্যাচ নম্বর]
+Student ID: [আপনার স্টুডেন্ট আইডি]
+
+[Mentor Name থেকে Student ID পর্যন্ত সবকিছু লিখার পর Screenshot গুলো যুক্ত করে গ্রুপে পোষ্ট করবেন]
