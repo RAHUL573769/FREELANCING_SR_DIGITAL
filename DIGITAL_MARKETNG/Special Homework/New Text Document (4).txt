@@ -1,0 +1,8 @@
+★ Special Homework - 04 ★
+
+- Create a Post Engagement Campaign using Existing Post
+- Create a Video Views Campaign using Existing Post
+- Create a Message Campaign with Message Template
+- Create a Business Manager/Portfolio Account
+- Add a Facebook Page to your Business Manager
+- Create an Ad Account in Business Manager
