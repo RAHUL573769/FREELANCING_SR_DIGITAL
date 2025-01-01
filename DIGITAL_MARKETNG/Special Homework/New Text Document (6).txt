@@ -1,0 +1,17 @@
+★ Special Homework - 06 ★
+
+- Create a Custom Audience
+- Create a Lookalike Audience from the Custom Audience
+- Create Multiple Ads and Ad Sets in a Campaign
+
+----------------------------------
+
+★ Homework Post করার ফরম্যাট ★ 
+
+Mentor Name: Shaiek Ahmed Sir
+Special Class: 06
+Special HW: 06
+Batch: [আপনার ব্যাচ নম্বর]
+Student ID: [আপনার স্টুডেন্ট আইডি]
+
+[Mentor Name থেকে Student ID পর্যন্ত সবকিছু লিখার পর Screenshot গুলো যুক্ত করে গ্রুপে পোষ্ট করবেন]
